@@ -1,0 +1,78 @@
+C:\Users\Jcasas\source\repos\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Jcasas\source\repos\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Jcasas\source\repos\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\bin\Debug\netcoreapp3.1\Api_Examen-JuniorCasas.exe
+C:\Users\Jcasas\source\repos\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\bin\Debug\netcoreapp3.1\Api_Examen-JuniorCasas.deps.json
+C:\Users\Jcasas\source\repos\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\bin\Debug\netcoreapp3.1\Api_Examen-JuniorCasas.runtimeconfig.json
+C:\Users\Jcasas\source\repos\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\bin\Debug\netcoreapp3.1\Api_Examen-JuniorCasas.runtimeconfig.dev.json
+C:\Users\Jcasas\source\repos\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\bin\Debug\netcoreapp3.1\Api_Examen-JuniorCasas.dll
+C:\Users\Jcasas\source\repos\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\bin\Debug\netcoreapp3.1\Api_Examen-JuniorCasas.pdb
+C:\Users\Jcasas\source\repos\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Jcasas\source\repos\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jcasas\source\repos\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jcasas\source\repos\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jcasas\source\repos\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\obj\Debug\netcoreapp3.1\Api_Examen-JuniorCasas.csproj.AssemblyReference.cache
+C:\Users\Jcasas\source\repos\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\obj\Debug\netcoreapp3.1\Api_Examen-JuniorCasas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jcasas\source\repos\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\obj\Debug\netcoreapp3.1\Api_Examen-JuniorCasas.AssemblyInfoInputs.cache
+C:\Users\Jcasas\source\repos\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\obj\Debug\netcoreapp3.1\Api_Examen-JuniorCasas.AssemblyInfo.cs
+C:\Users\Jcasas\source\repos\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\obj\Debug\netcoreapp3.1\Api_Examen-JuniorCasas.csproj.CoreCompileInputs.cache
+C:\Users\Jcasas\source\repos\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\obj\Debug\netcoreapp3.1\Api_Examen-JuniorCasas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jcasas\source\repos\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\obj\Debug\netcoreapp3.1\Api_Examen-JuniorCasas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jcasas\source\repos\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\obj\Debug\netcoreapp3.1\staticwebassets\Api_Examen-JuniorCasas.StaticWebAssets.Manifest.cache
+C:\Users\Jcasas\source\repos\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\obj\Debug\netcoreapp3.1\staticwebassets\Api_Examen-JuniorCasas.StaticWebAssets.xml
+C:\Users\Jcasas\source\repos\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\obj\Debug\netcoreapp3.1\scopedcss\bundle\Api_Examen-JuniorCasas.styles.css
+C:\Users\Jcasas\source\repos\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\obj\Debug\netcoreapp3.1\Api_Examen-JuniorCasas.RazorTargetAssemblyInfo.cache
+C:\Users\Jcasas\source\repos\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\obj\Debug\netcoreapp3.1\Api_Examen-JuniorCasas.csproj.CopyComplete
+C:\Users\Jcasas\source\repos\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\obj\Debug\netcoreapp3.1\Api_Examen-JuniorCasas.dll
+C:\Users\Jcasas\source\repos\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\obj\Debug\netcoreapp3.1\Api_Examen-JuniorCasas.pdb
+C:\Users\Jcasas\source\repos\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\obj\Debug\netcoreapp3.1\Api_Examen-JuniorCasas.genruntimeconfig.cache
+C:\Users\Jcasas\source\repos\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Jcasas\source\repos\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Jcasas\source\repos\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Jcasas\source\repos\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Jcasas\source\repos\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jcasas\source\repos\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jcasas\source\repos\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\bin\Debug\netcoreapp3.1\Capa_Datos.dll
+C:\Users\Jcasas\source\repos\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\bin\Debug\netcoreapp3.1\Capa_Datos.pdb
+C:\Users\Jcasas\source\repos\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Jcasas\source\repos\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Jcasas\source\repos\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Jcasas\source\repos\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\proyecto\Api jcasas\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\proyecto\Api jcasas\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\bin\Debug\netcoreapp3.1\appsettings.json
+D:\proyecto\Api jcasas\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\bin\Debug\netcoreapp3.1\Api_Examen-JuniorCasas.exe
+D:\proyecto\Api jcasas\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\bin\Debug\netcoreapp3.1\Api_Examen-JuniorCasas.deps.json
+D:\proyecto\Api jcasas\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\bin\Debug\netcoreapp3.1\Api_Examen-JuniorCasas.runtimeconfig.json
+D:\proyecto\Api jcasas\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\bin\Debug\netcoreapp3.1\Api_Examen-JuniorCasas.runtimeconfig.dev.json
+D:\proyecto\Api jcasas\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\bin\Debug\netcoreapp3.1\Api_Examen-JuniorCasas.dll
+D:\proyecto\Api jcasas\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\bin\Debug\netcoreapp3.1\Api_Examen-JuniorCasas.pdb
+D:\proyecto\Api jcasas\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\proyecto\Api jcasas\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\proyecto\Api jcasas\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\proyecto\Api jcasas\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\proyecto\Api jcasas\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\proyecto\Api jcasas\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\proyecto\Api jcasas\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\proyecto\Api jcasas\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\proyecto\Api jcasas\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\proyecto\Api jcasas\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\proyecto\Api jcasas\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\proyecto\Api jcasas\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\proyecto\Api jcasas\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\proyecto\Api jcasas\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\proyecto\Api jcasas\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\bin\Debug\netcoreapp3.1\Capa_Datos.dll
+D:\proyecto\Api jcasas\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\bin\Debug\netcoreapp3.1\Capa_Datos.pdb
+D:\proyecto\Api jcasas\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\obj\Debug\netcoreapp3.1\Api_Examen-JuniorCasas.csproj.AssemblyReference.cache
+D:\proyecto\Api jcasas\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\obj\Debug\netcoreapp3.1\Api_Examen-JuniorCasas.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyecto\Api jcasas\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\obj\Debug\netcoreapp3.1\Api_Examen-JuniorCasas.AssemblyInfoInputs.cache
+D:\proyecto\Api jcasas\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\obj\Debug\netcoreapp3.1\Api_Examen-JuniorCasas.AssemblyInfo.cs
+D:\proyecto\Api jcasas\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\obj\Debug\netcoreapp3.1\Api_Examen-JuniorCasas.csproj.CoreCompileInputs.cache
+D:\proyecto\Api jcasas\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\obj\Debug\netcoreapp3.1\Api_Examen-JuniorCasas.MvcApplicationPartsAssemblyInfo.cs
+D:\proyecto\Api jcasas\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\obj\Debug\netcoreapp3.1\Api_Examen-JuniorCasas.MvcApplicationPartsAssemblyInfo.cache
+D:\proyecto\Api jcasas\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\obj\Debug\netcoreapp3.1\staticwebassets\Api_Examen-JuniorCasas.StaticWebAssets.Manifest.cache
+D:\proyecto\Api jcasas\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\obj\Debug\netcoreapp3.1\staticwebassets\Api_Examen-JuniorCasas.StaticWebAssets.xml
+D:\proyecto\Api jcasas\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\obj\Debug\netcoreapp3.1\scopedcss\bundle\Api_Examen-JuniorCasas.styles.css
+D:\proyecto\Api jcasas\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\obj\Debug\netcoreapp3.1\Api_Examen-JuniorCasas.RazorTargetAssemblyInfo.cache
+D:\proyecto\Api jcasas\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\obj\Debug\netcoreapp3.1\Api_Examen-JuniorCasas.csproj.CopyComplete
+D:\proyecto\Api jcasas\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\obj\Debug\netcoreapp3.1\Api_Examen-JuniorCasas.dll
+D:\proyecto\Api jcasas\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\obj\Debug\netcoreapp3.1\Api_Examen-JuniorCasas.pdb
+D:\proyecto\Api jcasas\Api_Examen-JuniorCasas\Api_Examen-JuniorCasas\obj\Debug\netcoreapp3.1\Api_Examen-JuniorCasas.genruntimeconfig.cache
